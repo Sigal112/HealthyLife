@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css/style.css" >
+		<title>HealthyLife</title>
+		<link rel="icon" type="png" href="img/icon.png">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap" rel="stylesheet">
+
+	  </head>
+
+	<body>
+		<ul>
+			<img src="/img/logo2.PNG" class="logo">
+			<li><a class="active" href="/">Home</a></li>
+			<li><a href="/BmiCalculator">BMI Calculator</a></li>
+			<li><a href='/CalorieCalculator'>Calorie Calculator</a></li>
+		  </ul>
+		<div class="form1"><img src="/img/bmi.PNG" class="Image">
+			<div class="calculate-bmi">
+				<p>Your BMI is: <b><%= app %></b></p>
+			</div>
+		</div>
+		<form class="form" id="form" action="/BmiCalculator" method="post">
+			<h1><span class="h1color">BMI</span> Calculator</h1>
+			<p><b>BMI</b>, is a measure of whether a person is at a normal body weight, low or high in relation to his height.<br>&nbsp;
+				<b>BMI</b> measurement is a tool for monitoring body weight, and for diagnosing the development of health problems resulting from being overweight.
+				<br>Type your metrics and check if you are at a normal body weight!<br>
+			  </p>
+			  <p><b>Underweight:</b> BMI is under 18.5<br>
+				<b>Normal weight:</b> BMI is 18.5 to 24.9<br>
+				<b>Overweight:</b> BMI is 25 to 29.9<br>
+				<b>Obese: </b>BMI is over 30
+			</p>
+			  <p class="text">Height (cm)</p><input type="number" value="1" min="1" class="text-input" id="height" name="height_field" onkeydown="numbersOnly"><br>
+			  <p class="text">Weight (kg)</p><input type="number" value="1" min="1" class="text-input" id="weight" name="weight_field"><br><br>
+			<button type="submit" id="submit">calculate</button>
+			</form>
+				
+	</body>
+</html>
