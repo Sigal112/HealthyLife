@@ -10,7 +10,7 @@ function bmi_calc(bmi) {
 function printbmi(bmi){
     let bmifinal = bmi_calc(bmi)
     if (bmifinal <= 18.4 ){
-        return (bmifinal + " ⚠️ " +"you are Underweight ")
+        return (bmifinal + " ⚠️ " +" you are Underweight ")
     }
 
     else if (bmifinal >= 18.5 && bmifinal <= 24.9){
