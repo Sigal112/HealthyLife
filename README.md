@@ -13,10 +13,10 @@ The site has 3 pages:
 
 link to a website : https://healthylife-final-project.herokuapp.com/
 
-Wish you a fun using ❤️
+Hope you enjoy using the website ❤️
 
 If you want to run the site on your computer, follow these steps:
-1. Download the git file
+1. Clone the git 
 2. On the terminal write - npm install
 3. On the terminal write - node app.js
 
