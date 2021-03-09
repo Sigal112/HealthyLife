@@ -29,7 +29,7 @@ function calculatorCalorieForDay(calorie){
     console.log(a[0]);
     let bmr = calculatorBMR(calorie)
     console.log(bmr);
-    if (a[0] == "littel or no exerise"){
+    if (a[0] == "little or no exerise"){
         console.log(((bmr*1.2)*1.1).toFixed(0));
         let Caloriee = ((bmr*1.2)*1.1).toFixed(0)
         return (Caloriee) 
