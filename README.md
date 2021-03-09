@@ -17,7 +17,7 @@ Wish you a fun using ❤️
 
 If you want to run the site on your computer, follow these steps:
 1. Download the git file
-2. Install NPM
+2. npm install
 
 Home page
 ![Home page](/public/img/homepage.PNG)
