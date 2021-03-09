@@ -20,12 +20,12 @@ If you want to run the site on your computer, follow these steps:
 2. Install NPM
 
 Home page
-![Home page](homepage.PNG)
+![Home page](/public/img/homepage.PNG)
 
 BMI Calculator
-![BMI Calculator](bmipage.PNG)
+![BMI Calculator](/public/img/bmipage.PNG)
 
 Calorie Calculator
-![Calorie Calculator](caloriepage.PNG)
+![Calorie Calculator](/public/img/caloriepage.PNG)
 
 
