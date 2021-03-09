@@ -11,7 +11,7 @@ The site has 3 pages:
 2. BMI Calculator: This page has an explanation of the calculator and values, you must enter your  height and weight.
 3. Calorie Calculator: This page has an explanation of the calculator, you need to enter your age, height, weight, sex and how many workouts you perform per week.
 
-link to a website : https://healthylife-final-project.herokuapp.com/
+link to the website : https://healthylife-final-project.herokuapp.com/
 
 Hope you enjoy using the website ❤️
 
