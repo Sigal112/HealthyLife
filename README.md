@@ -17,8 +17,8 @@ Wish you a fun using ❤️
 
 If you want to run the site on your computer, follow these steps:
 1. Download the git file
-2. On the terminal do - npm install
-3. On the terminal do - node app.js
+2. On the terminal write - npm install
+3. On the terminal write - node app.js
 
 Home page
 ![Home page](/public/img/homepage.PNG)
