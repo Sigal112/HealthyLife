@@ -21,12 +21,12 @@ If you want to run the site on your computer, follow these steps:
 3. On the terminal write - node app.js
 
 Home page
-![Home page](/public/img/homepage.jpg)
+![Home page](/public/img/homepage1.jpg)
 
 BMI Calculator
-![BMI Calculator](/public/img/bmipage.jpg)
+![BMI Calculator](/public/img/bmipage1.jpg)
 
 Calorie Calculator
-![Calorie Calculator](/public/img/caloriepage.jpg)
+![Calorie Calculator](/public/img/caloriepage1.jpg)
 
 
